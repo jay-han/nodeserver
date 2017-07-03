@@ -1,0 +1,22 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "a node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-han/nodeserver.git"
+  },
+  "author": "jayhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-han/nodeserver/issues"
+  },
+  "homepage": "https://github.com/jay-han/nodeserver#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
